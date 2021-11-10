@@ -1,0 +1,33 @@
+<idea-plugin>
+    <!--插件id-->
+    <id>com.xiaokai.test.demo</id>
+    <!--插件名称-->
+    <name>Demo</name>
+    <!--开发者信息-->
+    <!--插件说明-->
+
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <!--依赖的其他插件能力-->
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <!--插件动作-->
+    <actions>
+
+        <group id="HelloWorld" text="_HelloWorld">
+            <add-to-group group-id="MainMenu" anchor="last"/>
+        </group>
+
+        <action class="com.vince.test.HelloWorldAction" id="menuAction" text="menu action">
+            <add-to-group group-id="HelloWorld" anchor="first"/>
+        </action>
+
+    </actions>
+</idea-plugin>

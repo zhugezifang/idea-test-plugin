@@ -1,0 +1,1 @@
+D:\project\githup\test-plugin\build\classes\java\main\com\vince\test\HelloWorldAction.class

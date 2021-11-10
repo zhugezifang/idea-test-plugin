@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/project/githup/test-pb" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/project/githup/test-pb" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/project/githup/test-pb" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/project/githup/test-pb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-192.6603.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1636511618201" />
+              <option name="buildTimestamp" value="1567753765670" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<idea-plugin>
+  <version>1.4</version>
+  <id>com.xiaokai.test.demo</id>
+  <name>Demo</name>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <group id="HelloWorld" text="_HelloWorld">
+      <add-to-group group-id="MainMenu" anchor="last"/>
+    </group>
+    <action class="com.vince.test.HelloWorldAction" id="menuAction" text="menu action">
+      <add-to-group group-id="HelloWorld" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>

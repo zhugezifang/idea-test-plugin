@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="Play2ModuleTypeConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="google-app-engine-facet" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="scala-facets-to-sdks" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\project\githup\test-pb\.idea\codeStyles\codeStyleConfig.xml" timestamp="1636437229581" />
+    <file path="D:\project\githup\test-pb\.idea\compiler.xml" timestamp="1636084613418" />
+    <file path="D:\project\githup\test-pb\.idea\encodings.xml" timestamp="1635933300524" />
+    <file path="D:\project\githup\test-pb\.idea\jarRepositories.xml" timestamp="1635932843971" />
+    <file path="D:\project\githup\test-pb\.idea\misc.xml" timestamp="1635932792249" />
+    <file path="D:\project\githup\test-pb\.idea\modules.xml" timestamp="1636423055763" />
+    <file path="D:\project\githup\test-pb\.idea\test-pb.iml" timestamp="1636437431231" />
+    <file path="D:\project\githup\test-pb\.idea\workspace.xml" timestamp="1636512297212" />
+  </project-files>
+</conversion>
+
